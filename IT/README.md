@@ -1,4 +1,5 @@
 Inductive types in Homotopy Type Theory: Coq proofs
+===================================================
 
 This repository IT contains Coq proofs formalizing the development of 
 inductive types
